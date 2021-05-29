@@ -1,0 +1,1 @@
+fastboot flash recovery twrp-3.4.0-0-KudProject-X00T.img
